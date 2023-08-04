@@ -1,0 +1,13 @@
+table;input
+LL   ;id+id*id$
+LL   ;id^id+id$
+LL   ;id^id*id^id$
+LL   ;id+*id$
+LL   ;+id*id$
+LL   ;id^+(id)$
+LR   ;ad$
+LR   ;acd$
+LR   ;acce$
+LR   ;a$
+LR   ;d$
+LR   ;cd$
